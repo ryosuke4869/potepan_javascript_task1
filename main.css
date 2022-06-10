@@ -1,0 +1,20 @@
+.container {
+  margin: 30px;
+}
+
+h3 {
+  font-size: 40px;
+  margin: 15px auto;
+}
+
+#timer {
+  font-size: 60px;
+}
+
+button {
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 30px;
+  margin-right: 20px;
+  padding: 15px;
+}
